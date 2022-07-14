@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ameyd96
+- 👋 Hi, I’m amey
 - 👀 I’m interested in Full Stack Development (Spring Boot + React)
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
